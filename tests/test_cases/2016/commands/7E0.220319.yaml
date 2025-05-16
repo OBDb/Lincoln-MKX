@@ -1,0 +1,24 @@
+command_id: 7E0.220319
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056203190000'
+  expected_values:
+    LINCOLN_VCT_EXH_ACT: 0
+    LINCOLN_[ECU] VCT exhaust actual: 0
+- response: '7E8056203190001'
+  expected_values:
+    LINCOLN_VCT_EXH_ACT: 0.0625
+    LINCOLN_[ECU] VCT exhaust actual: 0.0625
+- response: '7E8056203190002'
+  expected_values:
+    LINCOLN_VCT_EXH_ACT: 0.125
+    LINCOLN_[ECU] VCT exhaust actual: 0.125
+- response: '7E8056203190003'
+  expected_values:
+    LINCOLN_VCT_EXH_ACT: 0.1875
+    LINCOLN_[ECU] VCT exhaust actual: 0.1875
+- response: 7E805620319FFFD
+  expected_values:
+    LINCOLN_VCT_EXH_ACT: 50
+    LINCOLN_[ECU] VCT exhaust actual: 50

@@ -1,0 +1,8 @@
+command_id: 7E0.220353
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056203530183'
+  expected_values:
+    LINCOLN_BARO: 14.03083
+    LINCOLN_[ECU] Baro: 14.03083

@@ -1,0 +1,12 @@
+command_id: 7E0.220316
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056203160000'
+  expected_values:
+    LINCOLN_VCT_INT_DUTY: 0
+    LINCOLN_[ECU] VCT intake duty cycle: 0
+- response: 7E8056203162A37
+  expected_values:
+    LINCOLN_VCT_INT_DUTY: 32.98035
+    LINCOLN_[ECU] VCT intake duty cycle: 32.98035
