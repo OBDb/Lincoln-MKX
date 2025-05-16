@@ -1,0 +1,44 @@
+command_id: 7E0.220307
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8056203072D34
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.31494
+    LINCOLN_[ECU] LPFP duty cycle: 35.31494
+- response: 7E8056203072D35
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.31799
+    LINCOLN_[ECU] LPFP duty cycle: 35.31799
+- response: 7E8056203072D37
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.3241
+    LINCOLN_[ECU] LPFP duty cycle: 35.3241
+- response: 7E8056203072D39
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.3302
+    LINCOLN_[ECU] LPFP duty cycle: 35.3302
+- response: 7E8056203072D3D
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.34241
+    LINCOLN_[ECU] LPFP duty cycle: 35.34241
+- response: 7E8056203072D3E
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.34546
+    LINCOLN_[ECU] LPFP duty cycle: 35.34546
+- response: 7E8056203072D3F
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.34851
+    LINCOLN_[ECU] LPFP duty cycle: 35.34851
+- response: 7E8056203072D41
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.35461
+    LINCOLN_[ECU] LPFP duty cycle: 35.35461
+- response: 7E8056203072D44
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.36377
+    LINCOLN_[ECU] LPFP duty cycle: 35.36377
+- response: 7E8056203072D48
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.37598
+    LINCOLN_[ECU] LPFP duty cycle: 35.37598

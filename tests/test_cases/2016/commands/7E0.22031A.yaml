@@ -1,0 +1,24 @@
+command_id: 7E0.22031A
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562031A0000
+  expected_values:
+    LINCOLN_VCT_INT_ERR: 0
+    LINCOLN_[ECU] VCT intake error: 0
+- response: 7E80562031A0003
+  expected_values:
+    LINCOLN_VCT_INT_ERR: 0.1875
+    LINCOLN_[ECU] VCT intake error: 0.1875
+- response: 7E80562031A0004
+  expected_values:
+    LINCOLN_VCT_INT_ERR: 0.25
+    LINCOLN_[ECU] VCT intake error: 0.25
+- response: 7E80562031A0006
+  expected_values:
+    LINCOLN_VCT_INT_ERR: 0.375
+    LINCOLN_[ECU] VCT intake error: 0.375
+- response: 7E80562031A0021
+  expected_values:
+    LINCOLN_VCT_INT_ERR: 2.0625
+    LINCOLN_[ECU] VCT intake error: 2.0625
