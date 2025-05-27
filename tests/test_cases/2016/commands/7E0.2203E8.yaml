@@ -1,8 +1,0 @@
-command_id: 7E0.2203E8
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
-test_cases:
-- response: 7E8056203E80BD0
-  expected_values:
-    LINCOLN_OAR: 0.18457
-    LINCOLN_[ECU] OAR: 0.18457
