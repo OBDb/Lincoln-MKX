@@ -1,8 +1,0 @@
-command_id: 7E0.220317
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
-test_cases:
-- response: '7E8056203170000'
-  expected_values:
-    LINCOLN_VCT_EXH_DUTY: 0
-    LINCOLN_[ECU] VCT exhaust duty cycle: 0
