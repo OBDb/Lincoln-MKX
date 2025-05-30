@@ -1,0 +1,32 @@
+command_id: 7E0.220301
+test_cases:
+- response: 7E805620301032A
+  expected_values:
+    LINCOLN_MAP_V: 0.79102
+- response: 7E80562030104F7
+  expected_values:
+    LINCOLN_MAP_V: 1.24121
+- response: 7E80562030104FC
+  expected_values:
+    LINCOLN_MAP_V: 1.24609
+- response: 7E805620301050B
+  expected_values:
+    LINCOLN_MAP_V: 1.26074
+- response: '7E8056203010510'
+  expected_values:
+    LINCOLN_MAP_V: 1.26562
+- response: 7E805620301051A
+  expected_values:
+    LINCOLN_MAP_V: 1.27539
+- response: 7E805620301051F
+  expected_values:
+    LINCOLN_MAP_V: 1.28027
+- response: 7E805620301052E
+  expected_values:
+    LINCOLN_MAP_V: 1.29492
+- response: '7E8056203010533'
+  expected_values:
+    LINCOLN_MAP_V: 1.2998
+- response: '7E8056203010538'
+  expected_values:
+    LINCOLN_MAP_V: 1.30469

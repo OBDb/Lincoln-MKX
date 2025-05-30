@@ -1,0 +1,20 @@
+command_id: 7E0.220318
+test_cases:
+- response: '7E8056203180000'
+  expected_values:
+    LINCOLN_VCT_INT_ACT: 0
+- response: 7E805620318FE78
+  expected_values:
+    LINCOLN_VCT_INT_ACT: 0
+- response: 7E805620318FFFC
+  expected_values:
+    LINCOLN_VCT_INT_ACT: 0
+- response: 7E805620318FFFD
+  expected_values:
+    LINCOLN_VCT_INT_ACT: 0
+- response: 7E805620318FFFE
+  expected_values:
+    LINCOLN_VCT_INT_ACT: 0
+- response: 7E805620318FFFF
+  expected_values:
+    LINCOLN_VCT_INT_ACT: 0

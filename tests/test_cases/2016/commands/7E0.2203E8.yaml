@@ -1,0 +1,5 @@
+command_id: 7E0.2203E8
+test_cases:
+- response: 7E8056203E80BD0
+  expected_values:
+    LINCOLN_OAR: 0.18457
