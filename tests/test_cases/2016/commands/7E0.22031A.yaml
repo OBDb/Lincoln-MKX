@@ -1,0 +1,17 @@
+command_id: 7E0.22031A
+test_cases:
+- response: 7E80562031A0000
+  expected_values:
+    LINCOLN_VCT_INT_ERR: 0
+- response: 7E80562031A0003
+  expected_values:
+    LINCOLN_VCT_INT_ERR: 0.1875
+- response: 7E80562031A0004
+  expected_values:
+    LINCOLN_VCT_INT_ERR: 0.25
+- response: 7E80562031A0006
+  expected_values:
+    LINCOLN_VCT_INT_ERR: 0.375
+- response: 7E80562031A0021
+  expected_values:
+    LINCOLN_VCT_INT_ERR: 2.0625

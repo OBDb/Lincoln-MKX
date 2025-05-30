@@ -1,0 +1,32 @@
+command_id: 7E0.220307
+test_cases:
+- response: 7E8056203072D34
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.31494
+- response: 7E8056203072D35
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.31799
+- response: 7E8056203072D37
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.3241
+- response: 7E8056203072D39
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.3302
+- response: 7E8056203072D3D
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.34241
+- response: 7E8056203072D3E
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.34546
+- response: 7E8056203072D3F
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.34851
+- response: 7E8056203072D41
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.35461
+- response: 7E8056203072D44
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.36377
+- response: 7E8056203072D48
+  expected_values:
+    LINCOLN_LPFP_DUTY: 35.37598

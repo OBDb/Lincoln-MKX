@@ -1,0 +1,8 @@
+command_id: 7E0.220316
+test_cases:
+- response: '7E8056203160000'
+  expected_values:
+    LINCOLN_VCT_INT_DUTY: 0
+- response: 7E8056203162A37
+  expected_values:
+    LINCOLN_VCT_INT_DUTY: 32.98035
