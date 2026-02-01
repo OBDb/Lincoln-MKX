@@ -1,0 +1,17 @@
+command_id: 7E0.22035F
+test_cases:
+- expected_values:
+    LINCOLN_RO2_V: 0.10742
+  response: 7E80562035F006E
+- expected_values:
+    LINCOLN_RO2_V: 0.13086
+  response: 7E80562035F0086
+- expected_values:
+    LINCOLN_RO2_V: 0.30566
+  response: 7E80562035F0139
+- expected_values:
+    LINCOLN_RO2_V: 0.72949
+  response: 7E80562035F02EB
+- expected_values:
+    LINCOLN_RO2_V: 0.79688
+  response: 7E80562035F0330

@@ -1,0 +1,11 @@
+command_id: 7E0.2203BA
+test_cases:
+- expected_values:
+    LINCOLN_AAT_V: 4.0176
+  response: 7E8056203BA0336
+- expected_values:
+    LINCOLN_AAT_V: 4.03715
+  response: 7E8056203BA033A
+- expected_values:
+    LINCOLN_AAT_V: 4.04692
+  response: 7E8056203BA033C
