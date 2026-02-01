@@ -1,0 +1,17 @@
+command_id: 7E0.220319
+test_cases:
+- expected_values:
+    LINCOLN_VCT_EXH_ACT: 0.25
+  response: '7E8056203190004'
+- expected_values:
+    LINCOLN_VCT_EXH_ACT: 37.125
+  response: '7E8056203190252'
+- expected_values:
+    LINCOLN_VCT_EXH_ACT: 39.6875
+  response: 7E805620319027B
+- expected_values:
+    LINCOLN_VCT_EXH_ACT: 42.3125
+  response: 7E80562031902A5
+- expected_values:
+    LINCOLN_VCT_EXH_ACT: 50
+  response: 7E805620319FFFF

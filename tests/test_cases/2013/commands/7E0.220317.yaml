@@ -1,0 +1,14 @@
+command_id: 7E0.220317
+test_cases:
+- expected_values:
+    LINCOLN_VCT_EXH_DUTY: 0
+  response: '7E8056203170000'
+- expected_values:
+    LINCOLN_VCT_EXH_DUTY: 40.2771
+  response: 7E805620317338E
+- expected_values:
+    LINCOLN_VCT_EXH_DUTY: 40.65857
+  response: 7E805620317340B
+- expected_values:
+    LINCOLN_VCT_EXH_DUTY: 41.29944
+  response: 7E80562031734DD

@@ -1,0 +1,14 @@
+command_id: 7E0.220393
+test_cases:
+- expected_values:
+    LINCOLN_AC_P: 53.08382
+  response: 7E80562039300B7
+- expected_values:
+    LINCOLN_AC_P: 53.66397
+  response: 7E80562039300B9
+- expected_values:
+    LINCOLN_AC_P: 53.95404
+  response: 7E80562039300BA
+- expected_values:
+    LINCOLN_AC_P: 54.24412
+  response: 7E80562039300BB

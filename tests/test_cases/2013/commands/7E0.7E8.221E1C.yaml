@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221E1C
+test_cases:
+- expected_values:
+    LINCOLN_TOT: 39.375
+  response: 7E805621E1C0276
+- expected_values:
+    LINCOLN_TOT: 39.6875
+  response: 7E805621E1C027B
+- expected_values:
+    LINCOLN_TOT: 40.125
+  response: 7E805621E1C0282
+- expected_values:
+    LINCOLN_TOT: 40.1875
+  response: 7E805621E1C0283
+- expected_values:
+    LINCOLN_TOT: 40.5
+  response: 7E805621E1C0288
+- expected_values:
+    LINCOLN_TOT: 40.5625
+  response: 7E805621E1C0289
+- expected_values:
+    LINCOLN_TOT: 41.6875
+  response: 7E805621E1C029B
+- expected_values:
+    LINCOLN_TOT: 41.875
+  response: 7E805621E1C029E
+- expected_values:
+    LINCOLN_TOT: 42.125
+  response: 7E805621E1C02A2

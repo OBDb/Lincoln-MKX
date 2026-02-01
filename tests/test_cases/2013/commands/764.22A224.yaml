@@ -1,0 +1,11 @@
+command_id: 764.22A224
+test_cases:
+- expected_values:
+    LINCOLN_CC_TGT_VSS: 0
+  response: 76C0562A2240000
+- expected_values:
+    LINCOLN_CC_TGT_VSS: 3.96
+  response: 76C0562A224000B
+- expected_values:
+    LINCOLN_CC_TGT_VSS: -13.68
+  response: 76C0562A224FFDA
