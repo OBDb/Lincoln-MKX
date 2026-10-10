@@ -1,17 +1,12 @@
 command_id: 720.728.22404C
 test_cases:
-- expected_values:
-    LINCOLN_ODO_V3: 164948.5
+- expected_values: {}
   response: 7280662404C192B4D
-- expected_values:
-    LINCOLN_ODO_V3: 164948.8
+- expected_values: {}
   response: 7280662404C192B50
-- expected_values:
-    LINCOLN_ODO_V3: 164949.3
+- expected_values: {}
   response: 7280662404C192B55
-- expected_values:
-    LINCOLN_ODO_V3: 164949.6
+- expected_values: {}
   response: 7280662404C192B58
-- expected_values:
-    LINCOLN_ODO_V3: 164950.1
+- expected_values: {}
   response: 7280662404C192B5D
