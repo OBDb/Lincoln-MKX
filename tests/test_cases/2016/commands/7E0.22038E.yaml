@@ -1,11 +1,11 @@
 command_id: 7E0.22038E
 test_cases:
 - expected_values:
-    LINCOLN_EVAP_V: 5
+    LINCOLN_EVAP_V: 2.092
   response: 7E80562038E082C
 - expected_values:
-    LINCOLN_EVAP_V: 5
+    LINCOLN_EVAP_V: 2.517
   response: 7E80562038E09D5
 - expected_values:
-    LINCOLN_EVAP_V: 5
+    LINCOLN_EVAP_V: 2.577
   response: 7E80562038E0A11
